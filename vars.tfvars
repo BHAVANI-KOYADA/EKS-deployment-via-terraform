@@ -1,0 +1,7 @@
+vpc_id           = "vpc-01e201c25ebb5ea5c"
+application_name = "3_tier_application"
+subnet_id_1      = "subnet-0f970040f3bc14ccf"
+subnet_id_2      = "subnet-014af580176f14aa2"
+iam_cluster_role = "eksClusterRole"
+iam_node_role    = "ec2-base-role"
+project          = "EKS-via-terraform"
